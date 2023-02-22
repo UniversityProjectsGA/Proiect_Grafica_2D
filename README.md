@@ -1,6 +1,6 @@
 # Proiect_Grafica_2D
 
-Proiect Grafica pe calculator
+Proiect Grafica pe calculator - Anul 3 Semestrul 2
 
 In acest proiect am folosit OpenGL pentru a desena o scena care contine:
   - Primitive:
